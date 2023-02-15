@@ -17,12 +17,19 @@ p{
 
 .nav-link{
     display: flex;
-    gap: 3rem;
+    gap: 5rem;
     align-items: center;
     list-style: none;
     color: white;
 }
 
 .container-inner{
-    align-items: center;
+    display: flex;
+    /* align-items: center; */
+}
+
+
+.raccourcie{
+    display: flex;
+    gap: 5rem;
 }
