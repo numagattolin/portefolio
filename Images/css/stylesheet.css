@@ -20,6 +20,7 @@ p{
     gap: 3rem;
     align-items: center;
     list-style: none;
+    color: white;
 }
 
 .container-inner{
