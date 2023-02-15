@@ -1,13 +1,12 @@
 body{
     background-color: black;
 }
-*{
-    margin: 0px;
-    padding: 0px;
+
+div{
+    display: flex;
 }
 
-.conteneur{
-  margin: 0px 20px;
-  height: 1500px;
-  text-decoration: none;
+h1{
+    color: white;
 }
+
