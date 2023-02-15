@@ -4,9 +4,24 @@ body{
 
 div{
     display: flex;
+    align-content: center;
 }
 
 h1{
     color: white;
 }
 
+p{
+    color: white;
+}
+
+.nav-link{
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+    list-style: none;
+}
+
+.container-inner{
+    align-items: center;
+}
